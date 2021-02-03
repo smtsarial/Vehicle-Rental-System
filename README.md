@@ -51,6 +51,8 @@ system is shown below in the functional system design figure.
 
 
 User manual:
+
+
 By starting this system there are five choices will be present. Which are admin login, customer login, register, forget password and exit.
 
 The admin login is available only for the system admins. After choosing this selection the username and password will be required and both of them are “admin”.
