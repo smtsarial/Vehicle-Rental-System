@@ -49,6 +49,7 @@ for all types of people that they are looking forward to rent cars/motorcycles. 
 considered as a community service. The complete picture of the functionality offered by the
 system is shown below in the functional system design figure.
 
+![image](https://github.com/smtsarial/Vehicle-Rental-System/blob/main/images/1.png)
 
 User manual:
 
@@ -76,6 +77,8 @@ By selecting log off choice that will take you back to the main menu.
 By select register choice, which is use by the new users in order to join and be able to enter the system. By choosing this selection that will present the registration requirements which are name, username, age, national ID, budget, username (this name will be used for login) lastly the password.
 
 Then the system will ask you to go directly to the login part or go back to the main menu. By write yes the system will direct you into the login part. Where by write no the system will direct you back into the main menu.
+
+![image](https://github.com/smtsarial/Vehicle-Rental-System/blob/main/images/2.png)
 
 By choosing the forget password choice, the system will order from you to enter your username (that you used in the login process) and then order you to enter you national ID. Insert either username of national ID wrongly more than 3 times that will cause the system to give the user two choices, which are try again or exit. Otherwise, if both information written correctly the system will present for user his/her password. Based on the data file. Then will show the main menu selections for the user. And the user will choose one of these present selections.
 
